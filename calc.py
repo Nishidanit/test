@@ -13,3 +13,9 @@ print("result of sum = ") #改行
 
 
 print(value_sum)
+
+print("result of subtract = ") #改行
+
+
+print(value_subtract)
+
