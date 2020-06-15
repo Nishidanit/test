@@ -5,7 +5,7 @@ val_1 = input('input first number: ')
 val_2 = input('input second number: ')
 
 value_sum = sum(int(val_1), int(val_2))
-print("") #改行
+print("result of sum = ") #改行
 
 
 print(value_sum)
